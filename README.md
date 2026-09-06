@@ -1,11 +1,5 @@
-# B2B2C 多商户商城系统
+多商户商城系统
 
-[![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-brightgreen)](https://spring.io/projects/spring-boot)
-[![Vue.js](https://img.shields.io/badge/Vue.js-2.x-green)](https://vuejs.org/)
-[![uni-app](https://img.shields.io/badge/uni--app-3.x-green)](https://uniapp.dcloud.io/)
-
----
 
 ### 1. 项目简介
 
@@ -110,6 +104,3 @@
 
 ---
 
-### 6. 开源协议
-
-本项目遵循 `AGPL-3.0` 开源协议，详见 [LICENSE](./LICENSE) 文件。
